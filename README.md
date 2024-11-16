@@ -33,7 +33,12 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 </div>
-
+<h3 align="left">Holopin Badges:</h3>
+<p align="left">
+  <a href="https://holopin.io/@sujalcharati" target="_blank">
+    <img src="https://holopin.me/sujalcharati" alt="Holopin Badge" />
+  </a>
+</p>
 
 
 
